@@ -7,6 +7,8 @@
 
 ![Ghadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadamSup&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GhadamSup&repo=github-readme-stats)](https://github.com/GhadamSup/github-readme-stats)
+
 <!--
 **GhadamSup/GhadamSup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
