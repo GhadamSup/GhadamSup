@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Bubble Web;
-- 🌱 I’m currently learning HTML/PHP
-- 📫 You can reach me from discord: Ghadam#2171 
-- ⚡ Fun fact: I love haters
+- 🌱 I’m currently learning HTML/PHP;
+- 📫 You can reach me from discord: Ghadam#2171;
+- ⚡ Fun fact: I love haters;
 
 ![Ghadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadamSup&show_icons=true&theme=radical)
 
