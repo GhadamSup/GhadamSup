@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bubble Web;
+- 🔭 I’m currently working on Assault;
 - 🌱 I’m currently learning HTML and CSS;
 - 📫 You can reach me from discord: Ghadam#2171;
 - ⚡ Fun fact: I love haters;
