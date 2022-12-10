@@ -24,7 +24,7 @@
 
   <summary><b>⚡ GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/GhadamSup"><img alt="TheWylot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhadamSup&custom_title=Ghadam's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/GhadamSup"><img alt="Ghadam's Activity" src="https://activity-graph.herokuapp.com/graph?username=GhadamSup&custom_title=Ghadam's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
