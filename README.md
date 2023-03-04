@@ -2,7 +2,7 @@
     Hello there! I am <strong>Ghadam</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a MC platform called <strong> <a href="https://discord.gg/4pmgqyrHPV">Assault</a></strong>
 <br>
 <br>
 <a href="https://github.com/GhadamSup/">
@@ -10,7 +10,7 @@
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/637195284497039372">
+<a href="https://lanyard.cnrad.dev/api/1081651982839861399">
         <img src="https://lanyard-profile-readme.vercel.app/api/637195284497039372?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
     </a>
 </p>
@@ -24,7 +24,7 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/RestInPeaceZero/">
+    <a href="https://twitter.com/SkiIlz/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
