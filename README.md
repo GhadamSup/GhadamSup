@@ -1,8 +1,8 @@
 <h2 align="center">
-    Hello there! I am <strong>Ghadam</strong> 👋🏻
+    Hello there! Im <strong>Ghadam</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a Java Student & Mc Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a MC platform called <strong> <a href="https://discord.gg/4pmgqyrHPV">Assault</a></strong>
+    I am a Engineering Student who aspires to be a software developer in the near future, I mainly work as a developer on my free time
 <br>
 <br>
 <a href="https://github.com/GhadamSup/">
@@ -10,9 +10,7 @@
   </a> 
 <br>
 <br>
-<a href="https://lanyard.cnrad.dev/api/1081651982839861399">
-        <img src="https://lanyard-profile-readme.vercel.app/api/637195284497039372?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
+
 </p>
 &nbsp;
 <p align="center">
@@ -24,11 +22,7 @@
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/SkiIlz/">
-        <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/@021SkiIlz">
+    <a href="https://www.youtube.com/@GhadamSup">
         <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
     </a>
     
